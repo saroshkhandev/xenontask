@@ -40,7 +40,7 @@ password: password1
 ```
 
 ## References
-https://docs.djangoproject.com/en/4.1/
-https://getbootstrap.com/
-https://devcenter.heroku.com/articles/django-app-configuration
-https://devcenter.heroku.com/articles/heroku-cli
+-- https://docs.djangoproject.com/en/4.1/
+-- https://getbootstrap.com/
+-- https://devcenter.heroku.com/articles/django-app-configuration
+-- https://devcenter.heroku.com/articles/heroku-cli
